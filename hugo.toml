@@ -1,5 +1,6 @@
 baseURL = 'https://joeygun.github.io/joeylai'
 title = 'joey blog'
+theme = 'paper'
 
 [services]
   [services.disqus]
