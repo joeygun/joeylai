@@ -1,5 +1,6 @@
 +++
 title = 'Aboutme'
-date = 2024-10-15T16:32:34+08:00
+date = 2024-10-15T17:41:51+08:00
 +++
-lai lin xiao
+
+![ME](/static/1%202.jpg)
