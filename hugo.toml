@@ -4,7 +4,7 @@ theme = 'paper'
 
 [services]
   [services.disqus]
-    shortname = 'hello'     # use disqus comments
+    shortname = 'nihao'     # use disqus comments
 
 [params]
   # color style
@@ -29,5 +29,4 @@ theme = 'paper'
 
   # RTL supprot
   direction = "ltr"                         # RTL support for Right-to-left languages
-
 
